@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">sensorlab</string>
+    <string name="sens_val">sensor_value</string>
+    <string name="gravity">Gravity: </string>
+    <string name="magnet">Magnet: </string>
+    <string name="step">Steps: </string>
+    <string name="motion">motion</string>
+    <string name="magnet_tv">magnet</string>
+    <string name="step_tv">step</string>
+    <string name="show_data">show data</string>
+</resources>
